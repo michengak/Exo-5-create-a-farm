@@ -8,19 +8,19 @@ namespace MyspecialFarm
 {
     class Goat
     {
-        public void Walk()
+        public void DoWalk(string walk)
         {
             Console.WriteLine("Hello, I do not walk that much");
         }
-        public void Produce()
+        public void DoProduce()
         {
             Console.WriteLine("I produce deliciuos plenty deliciuos meat");
         }
-        public void Eat()
+        public void CanEat()
         {
             Console.WriteLine("I eat all sort of food in the farm");
         }
-        public void Talk()
+        public void CanTalk()
         {
             Console.WriteLine("I can oink oink");
         }
