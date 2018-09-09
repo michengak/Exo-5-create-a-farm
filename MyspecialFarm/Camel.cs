@@ -10,19 +10,19 @@ namespace MyspecialFarm
     {
         public void CanWalk()
         {
-            Console.WriteLine("Hi my name is Ibaka, everybody know me as long distance walker");
+            Console.WriteLine("Hi  everybody know me here, I walk more than anyone");
         }
         public void DoProduce()
         {
-            Console.WriteLine("My production is essentially water when in the desert");
+            Console.WriteLine("I am an asset for my master, I have a lot of water in my reservoir");
         }
         public void CanEat()
         {
-            Console.WriteLine("I can eat dry and fresh glass");
+            Console.WriteLine("I can eat dry and fresh glasses");
         }
         public void CanTalk()
         {
-            Console.WriteLine("I say strange songs like boooooo!!!");
+            Console.WriteLine("I am is Ibaka the Camel, I say strange songs like boooooo!!!");
         }
 
     }

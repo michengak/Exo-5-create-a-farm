@@ -8,13 +8,13 @@ namespace MyspecialFarm
 {
     class Goat
     {
-        public void DoWalk(string walk)
+        public void CanWalk()
         {
-            Console.WriteLine("Hello, I do not walk that much");
+            Console.WriteLine("I do not walk that much");
         }
         public void DoProduce()
         {
-            Console.WriteLine("I produce deliciuos plenty deliciuos meat");
+            Console.WriteLine("I produce deliciuos plenty delicious meat");
         }
         public void CanEat()
         {
@@ -22,7 +22,7 @@ namespace MyspecialFarm
         }
         public void CanTalk()
         {
-            Console.WriteLine("I can oink oink");
+            Console.WriteLine("I am Zink the Goat, I say oink oink");
         }
 
 

@@ -10,7 +10,7 @@ namespace MyspecialFarm
     {
         public void CanWalk()
         {
-            Console.WriteLine("Hi my name is Mauric, I carry humans on my back for long distance");
+            Console.WriteLine("I carry humans on my back for long distance");
         }
         public void DoProduce()
         {
@@ -18,11 +18,11 @@ namespace MyspecialFarm
         }
         public void CanEat()
         {
-            Console.WriteLine("I mainly eat grass, specialy fresh ones if possible");
+            Console.WriteLine("I mainly eat grasses, specially fresh ones if possible");
         }
         public void CanTalk()
         {
-            Console.WriteLine("I say  hee-haw hew- haw");
+            Console.WriteLine("I am Mauric the Donkey, I say hee-haw hew- haw?!?");
         }
 
     }

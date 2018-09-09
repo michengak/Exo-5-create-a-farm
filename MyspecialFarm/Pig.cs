@@ -10,19 +10,19 @@ namespace MyspecialFarm
     {
         public void CanWalk()
         {
-            Console.WriteLine("Hi my name is Mauric, I carry humans on my back for long distance");
+            Console.WriteLine("I walk mainly in dirty areas, I like it");
         }
         public void DoProduce()
         {
-            Console.WriteLine("Sometimes I can produce milk");
+            Console.WriteLine("I can give birth to many babies at once, my meat taste amazingly");
         }
         public void CanEat()
         {
-            Console.WriteLine("I mainly eat grass, specialy fresh ones if possible");
+            Console.WriteLine("I don't have any problem with food, I can eat anything");
         }
         public void CanTalk()
         {
-            Console.WriteLine("I say  hee-haw hew- haw");
+            Console.WriteLine("My name is Shetar the Pig, I say hee-haw hew- haw");
         }
 
     }
